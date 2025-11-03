@@ -1,0 +1,3 @@
+# core
+RMS
+use NPM
